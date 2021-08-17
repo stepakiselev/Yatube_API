@@ -1,4 +1,4 @@
-# Yatube
+# Yatube API
 ***
 ### Description
 Social network for bloggers based on REST API with authorization by token
